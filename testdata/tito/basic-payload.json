@@ -1,0 +1,134 @@
+{
+  "id": 795,
+  "event": {
+    "id": 64,
+    "title": "AwesomeConf ?",
+    "url": "https://ti.to/paulca/awesomeconf",
+    "account_slug": "paulca",
+    "slug": "awesomeconf",
+    "currency": "EUR",
+    "start_date": "2020-12-01",
+    "end_date": null
+  },
+  "name": "Peter Winter",
+  "first_name": "Peter",
+  "last_name": "Winter",
+  "email": "winter@example.com",
+  "phone_number": null,
+  "company_name": "Peter Winter",
+  "reference": "1i5nfwf2t",
+  "price": "1.00",
+  "tax": "0.19",
+  "price_less_tax": "0.81",
+  "slug": "1i5nfwf2t24",
+  "state_name": "incomplete",
+  "gender": "male",
+  "release_price": "1.00",
+  "discount_code_used": "",
+  "total_paid": "1.00",
+  "total_paid_less_tax": "0.81",
+  "updated_at": "2017-08-27T13:07:47.000Z",
+  "url": "https://ti.to/tickets/1i5nfwf2t24",
+  "admin_url": "https://ti.to/paulca/awesomeconf/admin/tickets/1i5nfwf2t24",
+  "release_title": "AwesomeConf ticket",
+  "release_slug": "31az2uvoh4",
+  "release_id": 90,
+  "release": {
+    "id": 90,
+    "title": "AwesomeConf ticket",
+    "slug": "31az2uvoh4",
+    "metadata": null
+  },
+  "custom": null,
+  "registration_id": "bdtyap3hguq",
+  "registration_slug": "bdtyap3hguq",
+  "metadata": null,
+  "answers": [
+    {
+      "question": {
+        "title": "Phone Number",
+        "description": "",
+        "id": 200
+      },
+      "response": "555-555-0199@example.com",
+      "humanized_response": "555-555-0199@example.com"
+    },
+    {
+      "question": {
+        "title": "Session 1 – Second Choice",
+        "description": "",
+        "id": 1293
+      },
+      "response": "One",
+      "humanized_response": "One"
+    },
+    {
+      "question": {
+        "title": "Session 1 - First Choice",
+        "description": "",
+        "id": 1292
+      },
+      "response": "555-555-0199@example.com",
+      "humanized_response": "555-555-0199@example.com"
+    },
+    {
+      "question": {
+        "title": "Country",
+        "description": "",
+        "id": 1005357
+      },
+      "response": "AU",
+      "humanized_response": "AU"
+    },
+    {
+      "question": {
+        "title": "Session 1 — Third Choice",
+        "description": "",
+        "id": 1295
+      },
+      "response": "One",
+      "humanized_response": "One"
+    },
+    {
+      "question": {
+        "title": "T-Shirt Size",
+        "description": "",
+        "id": 1009604
+      },
+      "response": "Women's S",
+      "humanized_response": "Women's S"
+    }
+  ],
+  "responses": {
+    "phone-number": "555-555-0199@example.com",
+    "session-1-second-choice": "One",
+    "session-1-first-choice": "555-555-0199@example.com",
+    "country": "AU",
+    "session-1-third-choice": "One",
+    "t-shirt-size": "Women's S"
+  },
+  "upgrade_ids": [],
+  "registration": {
+    "url": "https://ti.to/registrations/bdtyap3hguq",
+    "admin_url": "https://ti.to/paulca/awesomeconf/admin/registrations/bdtyap3hguq",
+    "total": "1.00",
+    "currency": "EUR",
+    "payment_reference": null,
+    "source": null,
+    "name": "Paul Campbell",
+    "email": "funconf@gmail.com",
+    "receipt": {
+      "total": "1.00",
+      "tax": "0.19",
+      "payment_provider": "Unknown",
+      "paid": true,
+      "receipt_lines": [
+        {
+          "total": "1.00",
+          "quantity": 1,
+          "tax": "0.19"
+        }
+      ]
+    }
+  }
+}
